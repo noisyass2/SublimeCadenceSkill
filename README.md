@@ -1,8 +1,13 @@
 SublimeCadenceSkill
 ===================
 
-Cadence Skilll support for Sublime Text
+Cadence Skilll support for Sublime Text<br>
 Includes :
-  Syntax Def
-  Function Completions
+<ul>
+  <li>Syntax Def</li>
+  <li>Function Completions</li></ul>
   
+Installation instructions:
+<ol>
+  <li>Copy all files to Packages/User directory</li>
+</ol>
