@@ -1,5 +1,5 @@
 {
-	"scope": "source.skill",
+	"scope": "source.skill - support.constant.skill,meta.delimiter.method.period.skill",
 	"completions":
 	[
 		"abs",
@@ -1014,7 +1014,7 @@
 		"cdddr",
 		"cddr",
 		"cdr",
-		"puts",
+		"puts",		
 		{ "trigger" : "axl_ol_ol2" , "contents" : "axl_ol_ol2(${1:l_seg1} ${2:l_seg2})" },
 		{ "trigger" : "axlAddSelectAll" , "contents" : "axlAddSelectAll()" },
 		{ "trigger" : "axlAddSelectBox" , "contents" : "axlAddSelectBox(${1:[l_bBox]})" },

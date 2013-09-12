@@ -1,0 +1,36 @@
+<snippet>
+    <content><![CDATA[/* ##########################################################################
+
+   PROGRAM NAME: $TM_FILENAME
+
+   Written by ${1:devName}
+   Designwires Limited Corporation
+   ${2:datenow}
+
+   DESCRIPTION:
+   This routine is created to check dog bone.
+
+
+   PROGRAM HISTORY
+   Version\tDate        Developer         Reason
+   V1.0        $2       $1       ${3:First Version}
+   
+
+   TESTED FOR vERSION
+   R16.3
+
+
+   WARRANTY:
+   NONE. NONE. NONE.
+   Use all material in this code at your own risk.  Designwires Limited Corporation 
+   makes no claims about any material in this archive.  These examples may
+   not function or may only function in specific instances. We'd like to hear 
+   what you think of our approach to this, and how we can improve it.
+*/]]></content>
+    <!-- Optional: Tab trigger to activate the snippet -->
+    <tabTrigger>meta</tabTrigger>
+    <!-- Optional: Scope the tab trigger will be active in -->
+    <scope>source.skill</scope>
+    <!-- Optional: Description to show in the menu -->
+    <description>Skill meta block snippet</description>
+</snippet>

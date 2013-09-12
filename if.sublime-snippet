@@ -1,0 +1,13 @@
+<snippet>
+    <content><![CDATA[(if ${1:condition} then
+    $2
+${3:else
+	${4}}
+)]]></content>
+    <!-- Optional: Tab trigger to activate the snippet -->
+    <tabTrigger>if</tabTrigger>
+    <!-- Optional: Scope the tab trigger will be active in -->
+    <scope>source.skill</scope>
+    <!-- Optional: Description to show in the menu -->
+    <description>Skill if snippet</description>
+</snippet>

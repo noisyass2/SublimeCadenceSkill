@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[(procedure ${1:name}(${2:params})
+    $3
+)]]></content>
+    <!-- Optional: Tab trigger to activate the snippet -->
+    <tabTrigger>procedure</tabTrigger>
+    <!-- Optional: Scope the tab trigger will be active in -->
+    <scope>source.skill</scope>
+    <!-- Optional: Description to show in the menu -->
+    <description>Skill procedure block snippet</description>
+</snippet>
