@@ -47,7 +47,7 @@
 			<string>(\b(?i:(defun|defmethod|defmacro|procedure))\b)(\s+)((\w|\-|\!|\?)*)</string>
 			<key>name</key>
 			<string>meta.function.skill</string>
-		</dict>
+		</dict>	
 		<dict>
 			<key>captures</key>
 			<dict>
@@ -98,18 +98,10 @@
 			<string>support.function.skill</string>
 		</dict>
 		<dict>
-			<key>captures</key>
-			<dict>
-				<key>1</key>
-				<dict>
-					<key>name</key>
-					<string>entity.name.function.skill</string>
-				</dict>
-			</dict>
 			<key>match</key>
 			<string>([a-zA-Z0-9]*)(\()</string>
 			<key>name</key>
-			<string>meta.function.skill</string>
+			<string>meta.function-call.skill</string>
 		</dict>
 		<dict>
 			<key>match</key>

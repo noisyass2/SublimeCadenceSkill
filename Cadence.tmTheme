@@ -148,7 +148,17 @@
 				<string>#FF8800</string>
 			</dict>
 		</dict>
-
+		<dict>
+			<key>name</key>
+			<string>Function Calls</string>
+			<key>scope</key>
+			<string>meta.function-call.skill</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#A6E22E</string>
+			</dict>
+		</dict>
 		<dict>
 			<key>name</key>
 			<string>Storage</string>
@@ -413,6 +423,7 @@
 				<string>#F83333</string>
 			</dict>
 		</dict>
+
 	</array>
 	<key>uuid</key>
 	<string>D8D5E82E-3D5B-46B5-B38E-8C841C21347D</string>
