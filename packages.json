@@ -1,0 +1,17 @@
+{
+	"schema_version": "2.0",
+	"packages": [
+		{
+			"name": "Cadence Skill",
+			"details": "https://github.com/leoheck/sublime-cadence-skill",
+			"releases": [
+				{
+					"version": "0.1",
+					"url": "https://github.com/leoheck/sublime-cadence-skill/tags/v0.1",
+					"date": "2016-05-20 21:11:00",
+					"sublime_text": "*"
+				}
+			]
+		}
+	]
+}
