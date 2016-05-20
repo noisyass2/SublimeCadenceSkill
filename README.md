@@ -1,4 +1,4 @@
-# Cadence Skill fro Sublime Text
+# Cadence Skill for Sublime Text
 
 Cadence Skilll support for Sublime Text<br>
 
