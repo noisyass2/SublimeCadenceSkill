@@ -1,4 +1,9 @@
-# Cadence Skill for Sublime Text
+# Cadence Skill Language for Sublime Text
+
+Skill is a programing language from Cadence:
+- https://www.cadence.com/Training/NA/Pages/coursedetails.aspx?componentID=ES_83018_IC6.1.6
+- https://en.wikipedia.org/wiki/Cadence_SKILL
+
 
 Cadence Skilll support for Sublime Text<br>
 
