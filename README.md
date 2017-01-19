@@ -1,10 +1,8 @@
 # Cadence Skill for Sublime Text
 
-Skill is a scripting language from Cadence
-- ()[https://www.cadence.com/Training/NA/Pages/coursedetails.aspx?componentID=ES_83018_IC6.1.6]
-- (Skill definition at Wikipedia)[https://en.wikipedia.org/wiki/Cadence_SKILL]
+[Skill](https://en.wikipedia.org/wiki/Cadence_SKILL) is a scripting language from Cadence.
 
-Skilll support for Sublime Text includes:
+The support for Sublime Text includes:
 - Syntax highlight
 - Function completions
 
